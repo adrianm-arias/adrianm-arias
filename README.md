@@ -6,6 +6,7 @@
 
 <!--
 **adrianm-arias/adrianm-arias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐘 Database Tasks
 
 👋 About Me
 I'm Nick and I am a Software Engineer. Taking the leap into web development was the best decision of my life and I can't wait to learn more! Take a look around and feel free to reach out.
